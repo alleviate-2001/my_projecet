@@ -1,1 +1,3 @@
 this is sixth file in github
+
+this is merge command!
